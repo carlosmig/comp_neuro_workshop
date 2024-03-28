@@ -5,14 +5,14 @@ From June 17th (Monday) to June 18th (Tuesday).
 # Program.
 
 **- Information Theory.**
-  - Fundamentals of information theory.
-  - Connectivity analyses from information theory.
-  - Examples of applications in neuroscience.
+    - Fundamentals of information theory.
+    - Connectivity analyses from information theory.
+    - Examples of applications in neuroscience.
 **- High-order interdependencies.**
-  - Basics of high-order functional connectivity.
-  - High-order interactions in aging and dementia.
-  - Examples in consciousness and brain stimulation.
-**3. Tutorial I: information theory applied to fMRI and/or M/EEG data.**
+    - Basics of high-order functional connectivity.
+    - High-order interactions in aging and dementia.
+    - Examples in consciousness and brain stimulation.
+**- Tutorial I: information theory applied to fMRI and/or M/EEG data.**
 
 
 **4.	Basics of whole-brain modeling Part I.**
