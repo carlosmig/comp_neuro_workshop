@@ -3,14 +3,15 @@
 Franfurtk, Max Planck Institute for Empirical Aesthetics
 From June 17th (Monday) to June 18th (Tuesday).
 
-The workshop will introduce basic and advanced concepts for analyzing fMRI and M/EEG brain recordings, focusing on practical applications. The first part will introduce participants to the field of information theory and will end with the fundamentals of high-order interactions, a novel framework based on complex systems and emergent phenomena with potential applications in neuroscience. The next part of the workshop is focused on whole-brain modeling. We will cover aspects related to the philosophy of modeling in neuroscience, why we use models, and how we can construct models to reproduce the whole-brain dynamics of macroscopic recordings (fMRI, M/EEG). Finally, the last part of the workshop will introduce the Dynamical Causal Modeling, a framework for understanding and modeling the causal interactions among brain regions based on neuroimaging data. It combines biophysical models that describe neural dynamics with statistical models to infer directed connectivity. DCM is used to test hypotheses about brain network behavior and the underlying neural mechanisms.
+Learn about advanced biophysical modeling and high-order functional connectivity techniques from world-leading experts. 
+Discover how these methods are transforming our understanding of aging, neurodegeneration, and consciousness.
 
 ## Program.
 
 ### Information Theory
 - Fundamentals of information theory.
 - Connectivity analyses from information theory.
-- - Examples of applications in neuroscience.
+- Examples of applications in neuroscience.
 
 ### High-order interdependencies
 - Basics of high-order functional connectivity.
@@ -24,12 +25,12 @@ The workshop will introduce basic and advanced concepts for analyzing fMRI and M
 - Different scales of modeling: neuron-level, neural masses, and whole-brain.
 - Neural mass models: Wilson-Cowan and Jansen & Rit.
 - Basic elements of whole-brain models.
+- Fitting models to empirical data.
 
 ### Basics of whole-brain modeling Part II
-- Phenomenological models.
-- Biophysical models.
-- Fitting models to empirical data.
 - Real examples of modeling.
+- Brain aging and neurodegeneration.
+- Brain clocks.
 
 ### Tutorial II: Example of whole-brain modeling and fitting
 
