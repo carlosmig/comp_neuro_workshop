@@ -1,4 +1,4 @@
-# WORKSHOP IN COMPUTATIONAL METHODS FOR BRAIN CONNECTIVITY AND MODELING
+# Computational Methods for Brain Connectivity Modelling
 
 Franfurtk, Max Planck Institute for Empirical Aesthetics
 From June 17th (Monday) to June 18th (Tuesday).
