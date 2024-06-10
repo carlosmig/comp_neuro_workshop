@@ -50,13 +50,16 @@ Full program here: https://ncclabmpi.github.io/comp_neuro_workshop/program
 
 ### Tutorial III: DCM for fMRI and/or M/EEG, depending on the participants’ interests.**
 
+## Basic Bibliography
 
-## Requisites
+- Timme, N. M., & Lapish, C. (2018). A tutorial for information theory in neuroscience. eneuro, 5(3).
+- Cover, T. M., & Thomas, J. A. (2006). Elements of Information Theory.
+- Battiston, F., Amico, E., Barrat, A., Bianconi, G., Ferraz de Arruda, G., Franceschiello, B., … & Petri, G. (2021). The physics of higher-order interactions in complex systems. Nature Physics, 17(10).
 
-**Coming soon**
+- Kiebel, S. J., Garrido, M. I., Moran, R. J., & Friston, K. J. (2008). Dynamic causal modelling for EEG and MEG. Cognitive neurodynamics, 2.
+- Marreiros, A. C., Stephan, K. E., & Friston, K. J. (2010). Dynamic causal modeling. Scholarpedia, 5(7).
+- Friston, K. J. (2011). Functional and effective connectivity: a review. Brain connectivity, 1(1).
 
-## Bibliography
-
-**Coming soon**
-
-
+- Lynn, C. W., & Bassett, D. S. (2019). The physics of brain network structure, function and control. Nature Reviews Physics, 1(5).
+- Cofré, R., et al. (2020). Whole-brain models to explore altered states of consciousness from the bottom up. Brain Sciences, 10(9).
+- Blohm, G., et al. (2020). A how-to-model guide for neuroscience. Eneuro, 7(1).
