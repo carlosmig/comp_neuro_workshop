@@ -6,6 +6,8 @@ From June 17th (Monday) to June 18th (Tuesday).
 Learn about advanced biophysical modeling and high-order functional connectivity techniques from world-leading experts. 
 Discover how these methods are transforming our understanding of aging, neurodegeneration, and consciousness.
 
+Full program here: https://ncclabmpi.github.io/comp_neuro_workshop/program
+
 ## Program.
 
 ### Information Theory
